@@ -32,7 +32,12 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Apresentação do conteúdo](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/f34f044f-6802-4a00-8ddc-70f936a1439d)[Hands-on - Parte 1](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/ea6095b2-6441-4ec2-bc39-2e76d1a38aee)[Hands-on - Parte 2](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/e23e995c-eb4c-4524-b21f-b4b8d04a3561)[Hands-on - Parte 3](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/9800bc64-b19c-484e-acae-5048de57afec)[Hands-on - Parte 4](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/5ca496c1-6060-45f7-b79b-cefa8d890138)[Entendendo o desafio](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/66cafd49-a4b0-485d-9d91-8618fe10874a)
+- [Apresentação do conteúdo](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/f34f044f-6802-4a00-8ddc-70f936a1439d)
+- [Hands-on - Parte 1](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/ea6095b2-6441-4ec2-bc39-2e76d1a38aee)
+- [Hands-on - Parte 2](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/e23e995c-eb4c-4524-b21f-b4b8d04a3561)
+- [Hands-on - Parte 3](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/9800bc64-b19c-484e-acae-5048de57afec)
+- [Hands-on - Parte 4](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/5ca496c1-6060-45f7-b79b-cefa8d890138)
+- [Entendendo o desafio](https://web.dio.me/lab/criando-um-aplicativo-do-tipo-canvas-com-a-power-platform/learning/66cafd49-a4b0-485d-9d91-8618fe10874a)
 
 
 
